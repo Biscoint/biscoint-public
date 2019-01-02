@@ -1,2 +1,3 @@
-# biscoint-public
-Biscoint's institutional public artifacts.
+# Biscoint public artifacts.
+
+Access Biscoint's public artifacts.

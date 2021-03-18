@@ -1,5 +1,3 @@
 # Biscoint public artifacts.
 
-Access Biscoint's public artifacts.
-
-* [/corporate](/corporate): logo, manuals and presentations.
+Corporate / Branding: Our most recent logos in SVG, AI, PSD and JPG format
